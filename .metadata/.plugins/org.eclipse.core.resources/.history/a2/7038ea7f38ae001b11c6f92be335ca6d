@@ -1,0 +1,14 @@
+package com.tyss.springdemo.dao;
+
+public class Snippet {
+	public static void main(String[] args) {
+		<!-- https://mvnrepository.com/artifact/springframework/spring-orm -->
+		<dependency>
+		    <groupId>springframework</groupId>
+		    <artifactId>spring-orm</artifactId>
+		    <version>1.2.5</version>
+		</dependency>
+		
+	}
+}
+

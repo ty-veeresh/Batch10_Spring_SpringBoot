@@ -1,0 +1,10 @@
+package com.tyss.springdemo;
+
+public class SpringDemoMain {
+	
+	public static void main(String[] args) {
+		
+		
+	}
+
+}
